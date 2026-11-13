@@ -12,7 +12,3 @@ Cliente: distribuidora_occidente | SKU: pollo_entero_fresco (22 registros)
 
 Cliente: maxi_despensa | SKU: jamon_de_pavo (21 registros)
 
-
-
-cd frontend
-npx expo start --clear
